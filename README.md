@@ -2,108 +2,116 @@
 
 ### 🚀 Flutter Developer | Mobile App Developer | UI/UX Enthusiast
 
-I'm passionate about building beautiful, responsive, and user-friendly mobile applications using Flutter. With expertise in cross-platform development, clean code practices, and modern design patterns, I create applications that work seamlessly on both iOS and Android.
+Building beautiful, responsive, and user-friendly mobile applications using Flutter. Expertise in cross-platform development, clean code practices, and modern design patterns.
 
 ---
 
 ## 👀 About Me
 
-- 🎯 I'm passionate about **Flutter App Development** with a strong focus on building high-quality cross-platform mobile applications
-- 🌱 Currently expanding my expertise in **advanced Flutter concepts**, **State Management (Provider, GetX, Bloc)**, and **Firebase integration**
-- 💡 I believe in writing clean, maintainable, and scalable code that's easy to understand and modify
-- 🔧 Experienced in building diverse applications from games to utility tools and educational apps
-- 📱 Dedicated to creating seamless user experiences across iOS and Android platforms
+- 🎯 Passionate about **Flutter App Development** with focus on high-quality cross-platform mobile applications
+- 🌱 Expanding expertise in **State Management (Provider, GetX, Bloc)** and **Firebase integration**
+- 💡 Committed to clean, maintainable, and scalable code
+- 🔧 Experience building games, utility tools, and educational applications
+- 📱 Dedicated to seamless user experiences across iOS and Android
 
 ---
 
-## 💻 Technical Skills
+## 💻 Technical Skills & Learning
 
-**Languages & Frameworks:**
-- 🎯 **Flutter** (Primary Focus)
-- 💜 Dart Programming Language
-- 🟣 Kotlin (Additional Experience)
-- 📄 XML for UI Design
+<table>
+<tr>
+<td width="50%">
 
-**Areas of Expertise:**
-- ✅ Flutter Cross-Platform Development
-- ✅ Responsive UI/UX Design
-- ✅ State Management (Provider, GetX, Bloc)
-- ✅ Firebase Integration (Authentication, Firestore, Storage)
-- ✅ REST APIs & JSON Integration
-- ✅ Mobile Game Development
-- ✅ Problem-Solving & Algorithms
-- ✅ Educational Application Development
+### Languages & Frameworks
+- 🎯 **Flutter** - Primary Focus
+- 💜 **Dart** - Core Language
+- 🟣 **Kotlin** - Additional Experience
+- 📄 **XML** - UI Design
+
+</td>
+<td width="50%">
+
+### 📚 Currently Learning
+- 🎓 Clean Architecture & MVVM patterns
+- 🔥 Firebase & Cloud Firestore
+- 🎨 Material Design 3 & Animations
+- 📦 Riverpod & Advanced State Management
+- 🌐 Backend Development
+- 🤖 AI/ML Integration
+
+</td>
+</tr>
+</table>
+
+**Areas of Expertise:** Flutter Development · UI/UX Design · State Management · Firebase · REST APIs · Mobile Games · Problem-Solving
 
 ---
 
 ## 🎨 Featured Projects
 
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| **Tic-Tac-Toe Game** | Interactive two-player game with smooth animations | Flutter/Kotlin | ⭐⭐⭐ |
-| **Calculator App** | Full-featured calculator with intuitive interface | Flutter/Kotlin | ⭐⭐ |
-| **CGPA Calculator** | Educational app for UAJK students to calculate GPA | Flutter/Kotlin | ⭐⭐ |
-| **Random Quote Generator** | Inspirational quotes app with beautiful UI design | Flutter/Kotlin | ⭐ |
-| **CodeAlpha Tasks** | Multiple portfolio projects showcasing skills | Flutter/Kotlin | ⭐ |
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Tic-Tac-Toe Game** | Interactive two-player game with smooth animations | Kotlin |
+| **Calculator App** | Full-featured calculator with intuitive interface | Kotlin |
+| **CGPA Calculator** | Educational app for UAJK students | Kotlin |
+| **Random Quote Generator** | Inspirational quotes app with beautiful UI | Kotlin |
+| **CodeAlpha Tasks** | Portfolio projects showcasing core skills | Kotlin |
 
 ---
 
-## 📚 Currently Learning & Exploring
+## 🤝 Collaborate & Connect
 
-- 🎓 Advanced Flutter architecture patterns (Clean Architecture, MVVM)
-- 🔥 Firebase integration (Realtime Database, Cloud Firestore)
-- 🎨 Advanced UI animations and Material Design 3
-- 📦 State management solutions (Riverpod, Bloc)
-- 🌐 Backend development to complement Flutter apps
-- 🤖 AI/ML integration in Flutter applications
+<table>
+<tr>
+<td width="50%">
 
----
+### 🤝 Looking to Collaborate On
+- 📱 Flutter cross-platform projects
+- 🎮 Mobile game development
+- 🛠️ Real-world problem-solving apps
+- 📚 Educational applications
+- 💼 Startup projects
+- 🔧 Open-source Flutter packages
 
-## 🤝 Looking to Collaborate On
+</td>
+<td width="50%">
 
-- 📱 **Flutter cross-platform projects** (iOS & Android)
-- 🎮 **Mobile game development** using Flutter
-- 🛠️ **Utility applications** that solve real-world problems
-- 📚 **Educational apps** with great UX design
-- 💼 **Startup projects** requiring rapid development
-- 🔧 **Open-source Flutter packages** and libraries
+### 📫 Get In Touch
+- 📧 **Email:** [your.email@gmail.com]
+- 💼 **LinkedIn:** [Your LinkedIn]
+- 🌐 **Portfolio:** [Your Website]
+- 📱 **Phone:** [Your Number]
 
-I'm excited to work with developers who share a passion for quality code, beautiful UI, and innovative solutions!
-
----
-
-## 📫 Get In Touch
-
-I'd love to connect and discuss collaboration opportunities, project ideas, or just chat about Flutter development!
-
-- 📧 **Email:** [Share your email]
-- 💼 **LinkedIn:** [LinkedIn Profile]
-- 🌐 **Portfolio:** [Your Portfolio Website]
-- 📱 **Phone:** [Your Contact Number]
-- 🐦 **Twitter:** [Optional - Your Twitter Handle]
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Fun Facts About Me
+## ⚡ Fun Facts & GitHub
 
-- 🎯 I believe great apps start with understanding the user's needs
-- 💪 I'm committed to continuous learning and staying updated with Flutter trends
-- 🚀 I love taking on challenging projects that push my boundaries
-- ☕ Fueled by coffee and code!
-- 🌍 Passionate about creating apps that make a global impact
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Fun Facts
+- 🎯 User-centric design enthusiast
+- 💪 Continuous learner & trend follower
+- 🚀 Challenge-driven developer
+- ☕ Coffee & code powered
+
+</td>
+<td width="50%">
+
+### 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&theme=dark&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&theme=dark&layout=compact&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ---
-
-## 📊 GitHub Activity
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&theme=dark&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&theme=dark&layout=compact)
-
----
-
-## 🔗 Connect With Me
-
-Feel free to reach out for collaboration, questions, or just to say hi! I'm always open to discussing new ideas and opportunities in Flutter development.
 
 **Let's build something amazing together! 🚀**
