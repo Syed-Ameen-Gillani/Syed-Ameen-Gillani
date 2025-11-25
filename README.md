@@ -45,18 +45,6 @@ Flutter developer focused on creating high-quality cross-platform mobile applica
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm open to collaborating on Flutter projects, mobile games, and open-source contributions.
