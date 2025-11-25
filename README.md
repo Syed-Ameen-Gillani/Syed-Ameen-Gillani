@@ -49,13 +49,6 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,git,github,vscode,figma,postman" />
 </p>
 
-## 💻 Skill & Language Stats
-
-<p align="left">
-  <img height="180" 
-       src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=donut&theme=tokyonight" />
-</p>
-
 ## 📈 GitHub Stats
 
 <p align="left">
@@ -71,22 +64,11 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Syed-Ameen-Gillani&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-## 🔥 Commit Stats
+## 🔥 Commit Stats & LeetCode Stats
 
 <p align="left">
-<img src="https://streak-stats.demolab.com/?user=Syed-Ameen-Gillani&theme=tokyonight" />
-</p>
-
-## 📊 Total Contributions
-
-<p align="left">
-<img src="https://github-contributor-stats.vercel.app/api?username=Syed-Ameen-Gillani&theme=tokyonight" />
-</p>
-
-## 💡 LeetCode Stats
-
-<p align="left">
-<img src="https://leetcard.jacoblin.cool/Ameen_512?theme=dark&font=Karma&ext=heatmap" />
+<img height="195" src="https://streak-stats.demolab.com/?user=Syed-Ameen-Gillani&theme=tokyonight" />
+<img height="195" src="https://leetcard.jacoblin.cool/Ameen_512?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
