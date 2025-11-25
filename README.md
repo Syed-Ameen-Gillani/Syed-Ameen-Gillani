@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Syed Ameen Gillani</h1>
 <h3 align="center">Flutter Developer | Mobile App Engineer</h3>
 
+
+<p align="right">
+  <img alt="Coding Animation" width="300" src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif">
+</p>
+
 <p align="left">
 
   <!-- Profile Views -->
