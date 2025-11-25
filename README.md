@@ -19,20 +19,12 @@
 
 ---
 
-<div align="center">
-
 ## 💫 About Me
 
-</div>
-
-<p align="center">
-✨ Passionate Flutter developer building clean and scalable mobile applications<br/>
-🔥 Experienced with Firebase, Stripe, state management, and production-ready apps<br/>
-📚 Learning advanced architecture patterns like Bloc, Riverpod, and Clean Architecture<br/>
+✨ Passionate Flutter developer building clean and scalable mobile applications  
+🔥 Experienced with Firebase, Stripe, state management, and production-ready apps  
+📚 Learning advanced architecture patterns like Bloc, Riverpod, and Clean Architecture  
 🎨 Love crafting smooth UI/UX experiences and optimized workflows
-</p>
-
----
 
 ## 🔗 Connect With Me
 
@@ -51,15 +43,11 @@
 </a>
 </p>
 
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,git,github,vscode,figma,postman" />
 </p>
-
----
 
 ## 📈 GitHub Stats
 
