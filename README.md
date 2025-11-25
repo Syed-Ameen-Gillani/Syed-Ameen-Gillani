@@ -19,7 +19,9 @@
   </a>
 
 </p>
+--- 
 
+Summary
 - Passionate Flutter developer building clean and scalable mobile applications.  
 - Experienced with Firebase, Stripe, state management, and production-ready apps.  
 - Learning advanced architecture patterns like Bloc, Riverpod, and Clean Architecture.  
