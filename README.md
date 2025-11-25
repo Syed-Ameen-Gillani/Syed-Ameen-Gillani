@@ -6,7 +6,7 @@
 ### Flutter Developer | Mobile App Engineer
 
 <img alt="Coding Animation" width="250" src="https://media.tenor.com/QGu2oLqifMUAAAAi/coffee-good-morning.gif">
-
+</div>
 <!-- <p>
   <img src="https://komarev.com/ghpvc/?username=Syed-Ameen-Gillani&label=Profile%20Views&color=0e75b6&style=flat" />
   <a href="https://github.com/Syed-Ameen-Gillani?tab=followers">
