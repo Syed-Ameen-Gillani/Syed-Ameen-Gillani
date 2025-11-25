@@ -5,14 +5,14 @@
 
 ## 🚀 About Me
 
-- Flutter developer passionate about building fast, clean, and scalable mobile apps.  
-- Experienced with real-world production apps, Firebase integration, state management, and UI/UX.  
-- Currently deepening expertise in **Bloc, Riverpod, Clean Architecture**, and backend workflows.  
-- I love creating user-focused mobile experiences and contributing to meaningful products.
+- Flutter developer focused on building clean, scalable, and performant mobile apps.  
+- Experienced in Firebase, Stripe, animations, real-time features, and production releases.  
+- Comfortable with Riverpod, Provider, app architecture patterns, and testing.  
+- Passionate about UI/UX and creating smooth, user-friendly experiences.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,git,github,vscode,figma,postman" />
@@ -20,42 +20,39 @@
 
 ---
 
-## 📌 Featured Projects
-
-Here are some of my notable projects (pin them on GitHub for visibility):
-
-### 🔹 Tic-Tac-Toe (Kotlin)
-A simple yet polished two-player game with animations and a clean UI.
-
-### 🔹 CGPA Calculator – UAJK
-A fully functional academic calculator used by students to compute GPA/CGPA.
-
-### 🔹 Random Quote Generator
-A lightweight Flutter app that displays daily motivational quotes.
-
-### 🔹 Calculator App (Android)
-A custom UI calculator built using Kotlin.
-
----
-
-## 🔥 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=tokyonight" height="160" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-- 🌐 Portfolio: **https://syed-ameen-gillani-dev.vercel.app**  
-- 💼 LinkedIn: **https://www.linkedin.com/in/syed-ameen-gillani**  
-- 🧠 LeetCode: **https://leetcode.com/u/Ameen_512**  
-- 📱 WhatsApp: **+92 312 1946942**  
+<p align="left">
+
+  <a href="https://syed-ameen-gillani-dev.vercel.app">
+    <img src="https://skillicons.dev/icons?i=web" width="45"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/syed-ameen-gillani">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Ameen_512">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
+  </a>
+
+  <a href="https://wa.me/923121946942">
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="45"/>
+  </a>
+
+</p>
 
 ---
 
 ### ✨ Thanks for visiting!  
-Feel free to connect or collaborate any time.
+Feel free to reach out or collaborate anytime.
 
