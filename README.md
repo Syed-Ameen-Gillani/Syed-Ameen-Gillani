@@ -1,53 +1,64 @@
-### Hi there 👋, I'm Syed Ameen Gillani
+# Hi there, I'm **Syed Ameen Gillani** 👋  
+**Flutter & Android Developer**   |   UI/UX Enthusiast
 
-#### Flutter Developer | Mobile App Developer | UI/UX Enthusiast
+---
 
-![Flutter Developer | Mobile App Developer | UI/UX Enthusiast](https://via.placeholder.com/1200x300/02569B/ffffff?text=Flutter+Developer)
+## 🚀 About Me
 
-Building beautiful, responsive, and user-friendly mobile applications using Flutter. Expertise in cross-platform development, clean code practices, and modern design patterns.
+- Passionate about building beautiful, responsive mobile apps using **Flutter**.  
+- Committed to clean code, modern design patterns, and maintainable architecture.  
+- Currently learning **Bloc**, **Riverpod**, **Clean Architecture**, and backend development.  
+- I enjoy contributing to open-source and collaborating on meaningful mobile-first projects.
 
-#### Skills & Technologies
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,firebase,git,github,androidstudio,vscode,figma,postman" />
-  </a>
-</p>
+## 💡 Skills & Technologies
 
-- 🔭 I'm currently working on cross-platform mobile applications with Flutter
-- 🌱 I'm currently learning Bloc state management, Clean Architecture, Riverpod, and Backend Development
-- 💬 Ask me about Flutter, Firebase, UI/UX design, State Management (Provider, GetX, Bloc), Mobile Games, REST APIs
-- 📫 Reach me at [your.email@gmail.com](mailto:your.email@gmail.com)
-- 👨‍💼 Connect with me on [LinkedIn](https://linkedin.com/in/your-profile)
-- 📍 Rawalpindi, Punjab, Pakistan
+| **Area** | **Technologies** |
+|---|---|
+| **Mobile Development** | Flutter, Dart, Android (Kotlin) |
+| **State Management** | Bloc, Provider, Riverpod |
+| **Backend / APIs** | REST APIs, Firebase |
+| **Version Control & Tools** | Git, GitHub |
+| **Design** | UI/UX design principles, Material Design |
 
-#### Featured Projects
+---
 
-| Repository | Description | Stars | Tech |
-|------------|-------------|-------|------|
-| [Tic-Tac-Toe-Game](https://github.com/Syed-Ameen-Gillani/Tic-Tac-Toe-Game) | Interactive two-player game with smooth animations | ⭐ 3 | Kotlin |
-| [Calculator-App](https://github.com/Syed-Ameen-Gillani/Calculator-App) | Full-featured calculator with modern UI | ⭐ 2 | Kotlin |
-| [CGPA-Calculator-for-UAJK](https://github.com/Syed-Ameen-Gillani/CGPA-Calculator-for-UAJK) | Academic tracking tool for UAJK students | ⭐ 2 | Kotlin |
-| [Random-Quote-Generator-App](https://github.com/Syed-Ameen-Gillani/Random-Quote-Generator-App) | Daily inspirational quotes with beautiful design | ⭐ 1 | Kotlin |
+## 🔍 What I’m Working On
 
-#### Connect with me:
+- Improving my architecture skills (Clean Architecture + Domain-Driven Design)  
+- Building cross-platform apps with Flutter + Firebase  
+- Exploring backend services and micro-services
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Syed-Ameen-Gillani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/your-profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](mailto:your.email@gmail.com)
+---
 
-#### GitHub Stats
+## 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+Here are some of the projects I'm proud of (you can pin them too):
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Ameen-Gillani&theme=radical" alt="GitHub Streak" />
-</p>
+- **Tic-Tac-Toe Game** – A two-player game written in Kotlin, with animations and a clean UI.  
+- **Calculator App** – A fully functional calculator built for Android.  
+- **CGPA Calculator for UAJK** – Tool for students to track their academic performance.  
+- **Random Quote Generator** – Daily inspirational quotes app, simple and well-designed.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syed-Ameen-Gillani&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+## 📫 Connect With Me
+
+- **Website / Portfolio**: [syed-ameen-gillani-dev.vercel.app](https://syed-ameen-gillani-dev.vercel.app/)  
+- **LinkedIn**: [in/syed-ameen-gillani](https://www.linkedin.com/in/syed-ameen-gillani)  
+- **WhatsApp**: +92 312 1946942  
+- **LeetCode**: [Ameen_512](https://leetcode.com/u/Ameen_512/)  
+
+---
+
+## 📈 GitHub Stats
+
+![Syed-Ameen’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=radical)
+
+---
+
+Thanks for stopping by! 😊  
+Feel free to reach out if you want to collaborate.
+
