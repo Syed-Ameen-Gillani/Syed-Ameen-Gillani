@@ -34,19 +34,19 @@
 <p align="left">
 
   <a href="https://syed-ameen-gillani-dev.vercel.app">
-    <img src="https://skillicons.dev/icons?i=web" width="45"/>
+    <img src="https://img.shields.io/badge/portfolio-online-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/syed-ameen-gillani">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://leetcode.com/u/Ameen_512">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
+    <img src="https://img.shields.io/badge/leetcode-profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
   <a href="https://wa.me/923121946942">
-    <img src="https://skillicons.dev/icons?i=whatsapp" width="45"/>
+    <img src="https://img.shields.io/badge/whatsapp-chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 </p>
