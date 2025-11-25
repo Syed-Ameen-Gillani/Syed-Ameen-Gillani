@@ -17,40 +17,14 @@
 
 </div>
 
+---
+
 ## 💫 About Me
 
 ✨ Passionate Flutter developer building clean and scalable mobile applications  
 🔥 Experienced with Firebase, Stripe, state management, and production-ready apps  
 📚 Learning advanced architecture patterns like Bloc, Riverpod, and Clean Architecture  
 🎨 Love crafting smooth UI/UX experiences and optimized workflows
-
-## 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,git,github,vscode,figma,postman" />
-</p>
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="180" 
-       src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="180" 
-       src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=tokyonight" />
-</p>
-
-## 🔥 Commit Stats & LeetCode Stats
-
-<p align="left">
-<img width="49%" src="https://streak-stats.demolab.com/?user=Syed-Ameen-Gillani&theme=tokyonight" />
-<img width="49%" src="https://leetcard.jacoblin.cool/Ameen_512?theme=dark&font=Karma&ext=heatmap" />
-</p>
-
-## 🏆 Achievement & Trophy Stats
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Syed-Ameen-Gillani&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ## 🔗 Connect With Me
 
@@ -68,6 +42,36 @@
   <img src="https://img.shields.io/badge/whatsapp-chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </p>
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,git,github,vscode,figma,postman" />
+</p>
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img height="180" 
+       src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img height="180" 
+       src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=tokyonight" />
+</p>
+
+## 🏆 Achievement & Trophy Stats
+
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=Syed-Ameen-Gillani&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+## 🔥 Commit Stats & LeetCode Stats
+
+<p align="left">
+<img height="195" src="https://streak-stats.demolab.com/?user=Syed-Ameen-Gillani&theme=tokyonight" />
+<img height="195" src="https://leetcard.jacoblin.cool/Ameen_512?theme=dark&font=Karma&ext=heatmap" />
+</p>
+
+---
 
 <div align="center">
 
