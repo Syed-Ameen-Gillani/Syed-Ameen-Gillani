@@ -49,9 +49,9 @@ Flutter developer focused on creating high-quality cross-platform mobile applica
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
