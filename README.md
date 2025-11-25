@@ -59,7 +59,7 @@
 
 <p align="left">
 <img height="195" src="https://streak-stats.demolab.com/?user=Syed-Ameen-Gillani&theme=tokyonight" />
-<img height="195" src="https://leetcard.jacoblin.cool/Ameen_512?theme=dark&font=Karma&ext=heatmap" />
+<img height="195" width = "200" src="https://leetcard.jacoblin.cool/Ameen_512?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
