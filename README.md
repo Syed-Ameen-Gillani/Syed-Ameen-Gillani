@@ -6,7 +6,7 @@
 
 ### Flutter Developer | Mobile App Engineer
 
-<img alt="Coding Animation" width="200"  height="200"  src="https://media.tenor.com/QGu2oLqifMUAAAAi/coffee-good-morning.gif">
+<img alt="Coding Animation" width="250" src="https://media.tenor.com/QGu2oLqifMUAAAAi/coffee-good-morning.gif">
 
 <!-- <p>
   <img src="https://komarev.com/ghpvc/?username=Syed-Ameen-Gillani&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -59,7 +59,7 @@
 
 <p align="left">
 <img height="195" src="https://streak-stats.demolab.com/?user=Syed-Ameen-Gillani&theme=tokyonight" />
-<img height="195" width = "200" src="https://leetcard.jacoblin.cool/Ameen_512?theme=dark&font=Karma&ext=heatmap" />
+<img height="195" src="https://leetcard.jacoblin.cool/Ameen_512?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
