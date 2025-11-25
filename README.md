@@ -1,7 +1,9 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Syed Ameen Gillani
+# 👋 Hi, I'm Syed Ameen Gillani 
+
+---
 
 ### Flutter Developer | Mobile App Engineer
 
