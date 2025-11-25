@@ -2,9 +2,6 @@
 <div align="center">
 
 # 👋 Hi, I'm Syed Ameen Gillani 
-
----
-
 ### Flutter Developer | Mobile App Engineer
 
 <img alt="Coding Animation" width="250" src="https://media.tenor.com/QGu2oLqifMUAAAAi/coffee-good-morning.gif">
