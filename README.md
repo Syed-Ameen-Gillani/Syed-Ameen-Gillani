@@ -25,31 +25,18 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
-
-✨ Passionate Flutter developer building clean and scalable mobile applications
-
-🔥 Experienced with Firebase, Stripe, state management, and production-ready apps
-
-</td>
-<td width="50%">
-
-📚 Learning advanced architecture patterns like Bloc, Riverpod, and Clean Architecture
-
+<p align="center">
+✨ Passionate Flutter developer building clean and scalable mobile applications<br/>
+🔥 Experienced with Firebase, Stripe, state management, and production-ready apps<br/>
+📚 Learning advanced architecture patterns like Bloc, Riverpod, and Clean Architecture<br/>
 🎨 Love crafting smooth UI/UX experiences and optimized workflows
-
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-<div align="center">
-
 ## 🔗 Connect With Me
 
+<p align="left">
 <a href="https://syed-ameen-gillani-dev.vercel.app">
   <img src="https://img.shields.io/badge/portfolio-online-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
@@ -62,26 +49,21 @@
 <a href="https://wa.me/923121946942">
   <img src="https://img.shields.io/badge/whatsapp-chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-
-</div>
+</p>
 
 ---
-
-<div align="center">
 
 ## 🛠️ Tech Stack
 
+<p align="left">
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,git,github,vscode,figma,postman" />
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-
 ## 📈 GitHub Stats
 
-<p>
+<p align="left">
   <img height="180" 
        src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight&rank_icon=github" />
   <img height="180" 
@@ -89,8 +71,6 @@
 </p>
 
 <img src="https://streak-stats.demolab.com/?user=Syed-Ameen-Gillani&theme=tokyonight" />
-
-</div>
 
 ---
 
