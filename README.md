@@ -5,7 +5,7 @@
 
 
 <p align="right">
-  <img alt="Coding Animation" width="300" src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif">
+  <img alt="Coding Animation" width="300" src="[https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif](https://media.tenor.com/QGu2oLqifMUAAAAi/coffee-good-morning.gif)">
 </p>
 
 <p align="left">
