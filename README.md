@@ -23,9 +23,11 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api?username=Syed-Ameen-Gillani&show_icons=true&theme=tokyonight&rank_icon=github" />
+
+  <img height="160" src="https://github-readme-stats-git-main-rstaa-rickstaa.vercel.app/api/top-langs/?username=Syed-Ameen-Gillani&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
