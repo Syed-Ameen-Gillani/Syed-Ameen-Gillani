@@ -4,8 +4,17 @@
 <h3 align="center">Flutter Developer | Mobile App Engineer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Syed-Ameen-Gillani&label=Profile%20views&color=0e75b6&style=flat" />
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Syed-Ameen-Gillani&label=Profile%20Views&color=0e75b6&style=flat" />
+
+  <!-- GitHub Followers -->
+  <a href="https://github.com/Syed-Ameen-Gillani?tab=followers">
+    <img src="https://img.shields.io/github/followers/Syed-Ameen-Gillani?label=Followers&style=flat&color=0e75b6" />
+  </a>
+
 </p>
+
 
 ---
 
