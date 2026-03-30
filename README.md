@@ -47,11 +47,6 @@
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,kotlin,git,github,vscode,figma,postman" />
 </p>
 
-## 🏆 Achievement & Trophy Stats
-
-<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=Syed-Ameen-Gillani&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
 
 ## 🔥 Commit Stats & LeetCode Stats
 
