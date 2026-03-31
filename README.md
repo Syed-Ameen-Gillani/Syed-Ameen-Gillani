@@ -1,9 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Syed Ameen Gillani
-
-<!-- Typing SVG Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0e75b6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Flutter+Developer+%7C+Mobile+App+Engineer;" alt="Typing SVG" />
+<!-- Typing SVG Animation combining Name and Title -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi,+I'm+Syed+Ameen+Gillani;Software+Engineer+|+Mobile+App+Developer" alt="Typing SVG" />
 
 <br />
 
