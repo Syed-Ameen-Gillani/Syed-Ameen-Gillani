@@ -4,14 +4,7 @@
 # 👋 Hi, I'm Syed Ameen Gillani 
 ### Flutter Developer | Mobile App Engineer
 
-<img alt="Coding Animation" width="250" src="https://media.tenor.com/QGu2oLqifMUAAAAi/coffee-good-morning.gif">
-</div>
-<!-- <p>
-  <img src="https://komarev.com/ghpvc/?username=Syed-Ameen-Gillani&label=Profile%20Views&color=0e75b6&style=flat" />
-  <a href="https://github.com/Syed-Ameen-Gillani?tab=followers">
-    <img src="https://img.shields.io/github/followers/Syed-Ameen-Gillani?label=Followers&style=flat&color=0e75b6" />
-  </a>
-</p> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0e75b6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Flutter+Developer+%7C+Mobile+App+Engineer;Crafting+Seamless+Cross-Platform+Experiences;AI+Enthusiast+%26+App+Strategy+Specialist;Building+Scalable+Production-Ready+Apps" />
 
 </div>
 
