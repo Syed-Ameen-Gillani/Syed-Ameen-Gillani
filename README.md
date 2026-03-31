@@ -3,7 +3,7 @@
 <!-- Typing SVG Animation combining Name and Title -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&multiline=true&width=600&height=120&lines=👋+Hi,+I'm+Syed+Ameen+Gillani;Software+Engineer+|+Mobile+App+Developer" alt="Typing SVG" />
 
-<br />
+##
 
 <!-- Coffee Animation -->
 <img alt="Coding Animation" width="250" src="https://media.tenor.com/QGu2oLqifMUAAAAi/coffee-good-morning.gif">
